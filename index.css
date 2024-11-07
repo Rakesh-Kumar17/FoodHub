@@ -1,9 +1,9 @@
-#heading
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.variety
 {
-    color:red;
-}
-#child
-{
-    color:brown;
-    background-color: aquamarine;
+    inline-size: 230px;
+    overflow-wrap: break-word;
 }
